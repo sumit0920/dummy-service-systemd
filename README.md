@@ -118,9 +118,32 @@ dummy-service-systemd/
 ├── dummy.service # systemd service unit file
 ├── README.md # Project documentation (this file)
 ├── LICENSE # Open-source license (MIT)
-├── .gitignore # Ignoring log files and temp files
-└── diagram.png # (Optional) Architecture diagram
+└──.gitignore # Ignoring log files and temp files
+ 
 ```
+## **Screenshots**
+
+Here’s an example of the service running successfully:
+Dummy Service Running
+
+<img width="1192" height="532" alt="Screenshot 2025-08-29 212437" src="https://github.com/user-attachments/assets/16e10379-81eb-49c0-8206-e13b97ae05f1" />
+
+<img width="1904" height="684" alt="Screenshot 2025-08-29 212510" src="https://github.com/user-attachments/assets/c606b23a-6739-4b0f-9d9b-c798a76c0f7c" />
+
+
+<img width="1156" height="414" alt="Screenshot 2025-08-29 212627" src="https://github.com/user-attachments/assets/035291e7-b9c8-47ce-a870-eb1b660d5541" />
+
+
+<img width="1110" height="365" alt="Screenshot 2025-08-29 212719" src="https://github.com/user-attachments/assets/a072051c-fa3f-49f4-b42c-5abfddccbc2c" />
+
+
+<img width="896" height="532" alt="Screenshot 2025-08-29 212745" src="https://github.com/user-attachments/assets/3d087666-4390-4655-986d-cd32634fa0fc" />
+
+
+<img width="1173" height="299" alt="Screenshot 2025-08-29 212834" src="https://github.com/user-attachments/assets/2b23518a-415b-4971-85aa-43708dc2a691" />
+
+
+
 
 ---
 
