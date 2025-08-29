@@ -5,10 +5,15 @@
 ![systemd](https://img.shields.io/badge/systemd-AutoStart-critical?logo=linux&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+
 A simple **Linux background service** built with a Bash script and managed by **systemd**.  
 This project simulates an application that writes logs every 10 seconds and automatically restarts if it fails.
 
 ---
+# Project URL
+```
+https://roadmap.sh/projects/dummy-systemd-service
+```
 
 ## **Project Overview**
 
@@ -140,10 +145,3 @@ Feel free to open issues or pull requests to improve this project.
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@devopswithsumit)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sumit0920)
 ---
-
-```
-
----
-
-Do you also want me to **draw and provide you an architecture diagram (dummy.sh → systemd → log files)** so you can directly add it as `diagram.png` to your repo? Or should I give you **instructions to create it quickly in Canva?**
-```
